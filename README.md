@@ -1,8 +1,6 @@
 
 
 
-## 📊 My Github Stats
-
   <br/>
       <a href="https://github.com/Naim75o/github-readme-stats"><img alt="FLAME NAIM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Naim75o&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
         <a href="https://github.com/Naim75o/github-readme-stats"><img alt="FLAME NAIM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naim75o&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -13,9 +11,7 @@
 ![PROFILE VIEWERS](https://gpvc.arturio.dev/Hunter-alamin) 
 
 
-FACEBOOK PUBLIC ACCOUNT CLONING
-TOOL
-
+Bypass ADF PAID TOOL
 
 #### INSTALL TOOL ON TERMUX
 ```python
@@ -32,8 +28,6 @@ $ git clone https://github.com/Naim75o/bypass-tooL
 $ cd bypass-tooL
 $ python Adf.py
 
-And you can bypass James404 To Type
-$python Prohack.py
 
 ```
 
