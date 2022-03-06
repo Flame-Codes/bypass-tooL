@@ -17,7 +17,7 @@ Bypass ADF PAID TOOL
 ```python
 $ apt update && apt upgrade
 $ apt install python2
-$rm -rf bypass-tooL
+$ rm -rf bypass-tooL
 $ pip2 install lolcat
 $ pip2 install mechanize
 $ pip2 install requests bs4
