@@ -29,9 +29,6 @@ $ git clone https://github.com/Naim75o/bypass-tooL
 $ cd bypass-tooL
 $ python Adf.py
 
-You can bypass James tooL 🎯
-run 
-python Prohack.py
 
 
 ```
