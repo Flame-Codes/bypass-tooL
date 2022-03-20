@@ -7,11 +7,9 @@
           <br/>
             <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
             
-# PROFILE VIEWERS ➤➤➤➤
-![PROFILE VIEWERS](https://gpvc.arturio.dev/Hunter-alamin) 
 
 
-Bypass ADF PAID TOOL
+Bypass PAID TOOLs
 
 #### INSTALL TOOL ON TERMUX
 ```python
@@ -27,7 +25,7 @@ $ git clone https://github.com/Naim75o/bypass-tooL
 #### RUN SCRIPT
 ```python
 $ cd bypass-tooL
-$ python Adf.py
+$ python2 Bypass-all.pyc
 
 
 
